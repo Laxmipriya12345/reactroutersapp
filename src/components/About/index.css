@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.img2 {
+  width: 120px;
+  height: 120px;
+  margin: 10px;
+}
+.para {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: violet;
+}

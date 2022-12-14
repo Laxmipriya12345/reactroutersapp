@@ -1,0 +1,18 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+.img3 {
+  width: 120px;
+  height: 120px;
+  margin: 10px;
+}
+.contact {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.head {
+  font-size: 29px;
+  font-family: 'Roboto';
+  color: violet;
+}
